@@ -1,3 +1,5 @@
+# 1. Fonts
+
 Text is ubiquitous on the web. Websites must have a legible and appropriate font that suits their target audience. Styling the text to indicate the importance or to provide an emphasis helps in the readability of the website.
 
 # Font Family
