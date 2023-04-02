@@ -62,7 +62,7 @@ Now let us put everything we've learned so far into action:
 <p class="font-fancy">Font Fancy - The quick brown fox jumps over the lazy dog</p>
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680415481925/08020467-84ef-41a0-9709-9cf3e2460702.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680415481925/08020467-84ef-41a0-9709-9cf3e2460702.png)
 
 ## Customizing Default Font
 
@@ -131,7 +131,7 @@ Let us now see all that we've learned in action
 <p class="text-[150px]">150px Text</p>
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680419642874/80d080f6-a475-451a-af44-27d26ab9cbbf.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680419642874/80d080f6-a475-451a-af44-27d26ab9cbbf.png)
 
 ---
 
@@ -144,7 +144,7 @@ There are only two classes - `italic` and `non-italic` with the latter used to r
 <p class="italic">Italic</p>
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680419968579/6b743db9-ab8a-4ef4-a1d6-8b7f0ea7ff79.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680419968579/6b743db9-ab8a-4ef4-a1d6-8b7f0ea7ff79.png)
 
 ---
 
@@ -177,7 +177,7 @@ Arbitrary font-weights like `font-[1100]` are only applicable if the font suppor
 <p class="font-black">Font Black - 900</p>
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680420324417/51092f24-dff2-47ea-83cc-4de215541115.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680420324417/51092f24-dff2-47ea-83cc-4de215541115.png)
 
 ## Theming
 
@@ -192,7 +192,7 @@ Like others, you can theme font weight by `theme.extend.fontWeight` object. You 
 
 # Advanced
 
-There are some rare-use cases where you might need to use Font Smoothing and Font Variant Numeric. It is left as an additional reading or an exercise.
+There are some rare-use cases where you might need to use [Font Smoothing](https://tailwindcss.com/docs/font-smoothing) and [Font Variant Numeric](https://tailwindcss.com/docs/font-variant-numeric). It is left as an additional reading or an exercise.
 
 ---
 
