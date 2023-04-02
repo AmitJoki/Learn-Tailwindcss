@@ -1,4 +1,4 @@
-# 1. Fonts
+# Fonts
 
 Text is ubiquitous on the web. Websites must have a legible and appropriate font that suits their target audience. Styling the text to indicate the importance or to provide an emphasis helps in the readability of the website.
 
@@ -8,11 +8,11 @@ The CSS property `font-family` takes a list of font family names that the browse
 
 In general, font families can be broadly categorized into:
 
-* Serif fonts - Fonts that help improve readability in non-screen texts like in newspapers.
+* [Serif fonts](https://en.wikipedia.org/wiki/Serif) - Fonts that help improve readability in non-screen texts like in newspapers.
     
-* Sans serif fonts - Fonts that help improve readability in screen texts like on a PC or a Macbook or even Androids and iPhones.
+* [Sans serif fonts](https://en.wikipedia.org/wiki/Sans-serif) - Fonts that help improve readability in screen texts like on a PC or a Macbook or even Androids and iPhones.
     
-* Monospace fonts - Fonts that help improve readability in code.
+* [Monospace fonts](https://en.wikipedia.org/wiki/Monospaced_font) - Fonts that help improve readability in code.
     
 
 TailwindCSS offers classes for all these font types - `font-serif`, `font-sans`, `font-mono` respectively.
@@ -135,7 +135,7 @@ Let us now see all that we've learned in action
 
 ---
 
-## Font Style
+# Font Style
 
 There are only two classes - `italic` and `non-italic` with the latter used to reset `italic` at different breakpoints or states which we'll see later.
 
@@ -148,7 +148,7 @@ There are only two classes - `italic` and `non-italic` with the latter used to r
 
 ---
 
-## Font Weight
+# Font Weight
 
 | Class Name | Font Weight |
 | --- | --- |
@@ -200,4 +200,4 @@ There are some rare-use cases where you might need to use [Font Smoothing](https
 
 To make it easier to follow the series, I've created a Github Repository at [AmitJoki/Learn-Tailwindcss](https://github.com/AmitJoki/Learn-Tailwindcss)
 
-The code used in this article can be found [here.](index.html)
+The code used in this article can be found [here.](https://github.com/AmitJoki/Learn-Tailwindcss/blob/main/Fonts/index.html)

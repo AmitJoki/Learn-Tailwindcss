@@ -6,4 +6,4 @@ Repository for [Learn Tailwindcss](https://til.amitjoki.com/series/learn-tailwin
 
 [Introduction](Introduction.md)
 
-[1. Fonts](1.%20Fonts/README.md) 
+[1. Fonts](Fonts/README.md) 
